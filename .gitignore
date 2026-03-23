@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+jspm_packages/
+
+# Logs and Debugging
+logs
+*.log
+npm-debug.log*
+.eslintcache
+
+# Environment variables
+.env
+.env.test
+
+# Build and Cache
+build/Release
+.npm
+*.tsbuildinfo
